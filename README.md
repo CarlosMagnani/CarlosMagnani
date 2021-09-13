@@ -9,7 +9,7 @@
 
   
   <div>
-    <img display="flex" margin="0" padding= "0" align="right" alt="Carlito-gif" width="360em" height="300em" src="https://garotasgeeks.com/wp-content/uploads/2014/08/tumblr.gif">
+
   </div>    
   
    
