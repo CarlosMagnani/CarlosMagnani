@@ -1,4 +1,4 @@
-#  <img height="30em" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png"/> Eae, beleza?? bem vindo ao meu git hub 😁✌
+#  <img height="30em" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png"/> Eae, beleza?? bem vindo ao meu github 😁✌
 
  <div>
   <a href="https://github.com/CarlosMagnani">
