@@ -15,12 +15,12 @@
  <div style="display: inline_block"><br>
 
 ### *In Use :* 
-<img src="https://skillicons.dev/icons?i=js,typescript,vuejs,nodejs,expressjs,prisma,postgresql,sqlite,jest,azure"/>
+<img src="https://skillicons.dev/icons?i=js,typescript,vuejs,nodejs,expressjs,postgresql,sqlite,jest,azure"/>
 <br><br>
 
 ### *Studing:*
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,graphql,apollo" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,graphql,apollo,prisma,fastify" />
 <br><br>
 
 ### *Want to know more*
