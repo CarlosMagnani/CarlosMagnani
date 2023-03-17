@@ -15,8 +15,7 @@
  <div style="display: inline_block"><br>
 
 ### *Em uso :* 
-<img src="https://skillicons.dev/icons?i=js,typescript,vuejs,
-          nodejs,expressjs,prisma,postgresql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=js,typescript,vuejs,nodejs,expressjs,prisma,postgresql,sqlite"/>
 <br><br>
 
 ### *Libraries / Web Development Tools :*
