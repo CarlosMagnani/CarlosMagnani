@@ -15,7 +15,8 @@
  <div style="display: inline_block"><br>
 
 ### *Em uso :* 
-<img src="https://skillicons.dev/icons?i=js,typescript,vuejs,nodejs,expressjs"/>
+<img src="https://skillicons.dev/icons?i=js,typescript,vuejs,
+          nodejs,expressjs,prisma,postgresql,sqlite"/>
 <br><br>
 
 ### *Libraries / Web Development Tools :*
@@ -30,7 +31,7 @@
 
 ### *Databases / ORM's :*
 
-<img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=prisma,postgresql,mongodb,sqlite" />
 <br><br>
 
  </div> <hr/>
