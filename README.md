@@ -14,7 +14,7 @@
   
  <div style="display: inline_block"><br>
 
-### *In Use :* 
+### *I've experience :* 
 <img src="https://skillicons.dev/icons?i=js,typescript,vuejs,nodejs,expressjs,postgresql,sqlite,jest,azure,git"/>
 <br><br>
 
