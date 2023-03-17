@@ -18,7 +18,7 @@
   <div style="display: flex" width="50%">
 
   <img align="center" alt="Carlito-Js" height="50em" src="https://iconape.com/wp-content/files/ez/353342/svg/javascript-seeklogo.com.svg">  
-   <img align="center" alt="Carlito-Ts" height="50em" src="https://icons8.com.br/icon/nCj4PvnCO0tZ/typescript">  
+   <img align="center" alt="Carlito-Ts" height="50em" src="https://iconape.com/typescript-icon-logo-icon-svg-png.html">  
    <img align="center" alt="Carlito-NodeJs" height="50em" src="https://icons8.com/icon/hsPbhkOH4FMe/node-js">
   <img align="center" alt="Carlito-Vs_Code" height="50em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--HlRNLfSF--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lhgvnc0xmaujbgfy3y28.png">
   <img align="center" alt="Carlito-Git" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
