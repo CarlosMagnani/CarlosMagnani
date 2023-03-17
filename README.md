@@ -15,7 +15,7 @@
  <div style="display: inline_block"><br>
 
 ### *Em uso :* 
-<img src="https://skillicons.dev/icons?i=js,typescript, vuejs, nodejs, expressjs"/>
+<img src="https://skillicons.dev/icons?i=js,typescript,vuejs,nodejs,expressjs"/>
 <br><br>
 
 ### *Libraries / Web Development Tools :*
