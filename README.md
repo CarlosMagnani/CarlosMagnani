@@ -15,17 +15,17 @@
  <div style="display: inline_block"><br>
 
 ### *In Use :* 
-<img src="https://skillicons.dev/icons?i=js,typescript,vuejs,nodejs,expressjs,prisma,postgresql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=js,typescript,vuejs,nodejs,expressjs,prisma,postgresql,sqlite,jest,azure"/>
 <br><br>
 
 ### *Studing:*
 
-<img src="https://skillicons.dev/icons?i=,react,styledcomponents,nextjs,nestjs,graphql,apollo" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,graphql,apollo" />
 <br><br>
 
-### *Frameworks :*
+### *Want to know more*
 
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,vue,nuxt" />
+<img src="https://skillicons.dev/icons?i=mongodb,aws,python" />
 <br><br>
 
  </div> <hr/>
