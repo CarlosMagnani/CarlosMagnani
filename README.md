@@ -1,4 +1,4 @@
-#  <img height="30em" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png"/> Eae, beleza?? bem vindo ao meu github 😁✌
+#  <img height="30em" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png"/>Heyy, welcome to my github 😁✌
 
  <div>
   <a href="https://github.com/CarlosMagnani">
@@ -14,23 +14,18 @@
   
  <div style="display: inline_block"><br>
 
-### *Em uso :* 
+### *In Use :* 
 <img src="https://skillicons.dev/icons?i=js,typescript,vuejs,nodejs,expressjs,prisma,postgresql,sqlite"/>
 <br><br>
 
-### *Libraries / Web Development Tools :*
+### *Studing:*
 
-<img src="https://skillicons.dev/icons?i=,react,styledcomponents" />
+<img src="https://skillicons.dev/icons?i=,react,styledcomponents,nextjs,nestjs,graphql,apollo" />
 <br><br>
 
 ### *Frameworks :*
 
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,vue,nuxt" />
-<br><br>
-
-### *Databases / ORM's :*
-
-<img src="https://skillicons.dev/icons?i=prisma,postgresql,mongodb,sqlite" />
 <br><br>
 
  </div> <hr/>
