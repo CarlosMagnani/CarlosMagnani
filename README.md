@@ -14,13 +14,13 @@
   
  <div style="display: inline_block"><br>
 
-### *Languages :* 
-<img src="https://skillicons.dev/icons?i=js,typescript"/>
+### *Em uso :* 
+<img src="https://skillicons.dev/icons?i=js,typescript, vuejs, nodejs, expressjs"/>
 <br><br>
 
 ### *Libraries / Web Development Tools :*
 
-<img src="https://skillicons.dev/icons?i=vuejs,react,styledcomponents" />
+<img src="https://skillicons.dev/icons?i=,react,styledcomponents" />
 <br><br>
 
 ### *Frameworks :*
