@@ -15,12 +15,12 @@
  <div style="display: inline_block"><br>
 
 ### *Languages :* 
-<img src="https://skillicons.dev/icons?i=js,typescript,python,cpp,c"/>
+<img src="https://skillicons.dev/icons?i=js,typescript"/>
 <br><br>
 
 ### *Libraries / Web Development Tools :*
 
-<img src="https://skillicons.dev/icons?i=html,css,react,styledcomponents,tailwind,sass" />
+<img src="https://skillicons.dev/icons?i=vuejs,react,styledcomponents" />
 <br><br>
 
 ### *Frameworks :*
