@@ -1,4 +1,4 @@
-#  <img height="30em" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png"/>Heyy, welcome to my github 😁✌
+#  <img height="30em" src="https://skillicons.dev/icons?i=typescript"/> Heyy, welcome to my github 😁✌
 
  <div>
   <a href="https://github.com/CarlosMagnani">
