@@ -3,11 +3,8 @@
  <div>
   <a href="https://github.com/CarlosMagnani">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlosMagnani&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMagnani&layout=compact&langs_count=16&theme=radical&hide=vb"/>
     </div><hr/>
-
-  
   <div>
 
   </div>    
