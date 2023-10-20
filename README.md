@@ -12,7 +12,7 @@
  <div style="display: inline_block"><br>
 
 ### *I've experience :* 
-<img src="https://skillicons.dev/icons?i=js,typescript,vuejs,nodejs,expressjs,postgresql,sqlite,jest,azure,git"/>
+<img src="https://skillicons.dev/icons?i=js,golang,typescript,vuejs,nodejs,expressjs,postgresql,sqlite,jest,azure,git"/>
 <br><br>
 
 ### *Studing:*
