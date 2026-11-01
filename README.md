@@ -1,32 +1,32 @@
 <h1 align="center">Carlos Magnani</h1>
-<p align="center"><strong>Desenvolvimento de software · Backend · Inteligência artificial</strong></p>
+<p align="center"><strong>Software Development · Backend · Artificial Intelligence</strong></p>
 <p align="center">
-  Transformando ideias em ferramentas úteis, com atenção à experiência de quem as utiliza.
+  Turning ideas into useful tools, with a focus on the people who use them.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-magnani/">LinkedIn</a> ·
-  <a href="mailto:carlosdsmagnani@gmail.com">E-mail</a> ·
-  <a href="https://github.com/CarlosMagnani?tab=repositories">Projetos</a>
+  <a href="mailto:carlosdsmagnani@gmail.com">Email</a> ·
+  <a href="https://github.com/CarlosMagnani?tab=repositories">Projects</a>
 </p>
 
 ---
 
-### Olá! 👋
+### Hello! 👋
 
-Sou Carlos, desenvolvedor interessado em criar soluções que conectam software e inteligência artificial a necessidades reais. Gosto de explorar tecnologias, construir projetos e compartilhar o que aprendo ao longo do caminho.
+I'm Carlos, a developer interested in building solutions that connect software and artificial intelligence to real-world needs. I enjoy exploring technologies, building projects, and sharing what I learn along the way.
 
-### Projetos em destaque
+### Featured projects
 
 📚 **[Study Book](https://github.com/CarlosMagnani/obsidian-study-book)**  
-Plugin para Obsidian que transforma vídeos em notas de estudo no próprio vault. Usa TypeScript e permite escolher o provedor de IA e utilizar sua própria chave de API.
+An Obsidian plugin that turns videos into study notes in your vault. Built with TypeScript, it lets you choose an AI provider and use your own API key.
 
 ✂️ **[Beauty AI](https://github.com/CarlosMagnani/Beauty-AI)**  
-Projeto em Python de um agente de IA voltado à reativação de clientes de salões de beleza.
+A Python project for an AI agent focused on bringing customers back to beauty salons.
 
-### Tecnologias
+### Technologies
 
 `TypeScript` · `Python` · `Go` · `JavaScript` · `Node.js` · `PostgreSQL` · `Git`
 
 ---
 
-<p align="center">Vamos conversar? <a href="https://www.linkedin.com/in/carlos-magnani/">Conecte-se comigo no LinkedIn</a>.</p>
+<p align="center">Let's connect on <a href="https://www.linkedin.com/in/carlos-magnani/">LinkedIn</a>.</p>
