@@ -1,34 +1,32 @@
-#  <img height="30em" src="https://skillicons.dev/icons?i=typescript"/> Heyy, welcome to my github 😁✌
+<h1 align="center">Carlos Magnani</h1>
+<p align="center"><strong>Desenvolvimento de software · Backend · Inteligência artificial</strong></p>
+<p align="center">
+  Transformando ideias em ferramentas úteis, com atenção à experiência de quem as utiliza.
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-magnani/">LinkedIn</a> ·
+  <a href="mailto:carlosdsmagnani@gmail.com">E-mail</a> ·
+  <a href="https://github.com/CarlosMagnani?tab=repositories">Projetos</a>
+</p>
 
- <div>
-  <a href="https://github.com/CarlosMagnani">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlosMagnani&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMagnani&layout=compact&langs_count=16&theme=radical&hide=vb"/>
-    </div><hr/>
-  <div>
+---
 
-  </div>    
-  
- <div style="display: inline_block"><br>
+### Olá! 👋
 
-### *I've experience :* 
-<img src="https://skillicons.dev/icons?i=js,golang,typescript,vuejs,nodejs,expressjs,postgresql,sqlite,jest,azure,git"/>
-<br><br>
+Sou Carlos, desenvolvedor interessado em criar soluções que conectam software e inteligência artificial a necessidades reais. Gosto de explorar tecnologias, construir projetos e compartilhar o que aprendo ao longo do caminho.
 
-### *Studing:*
+### Projetos em destaque
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,graphql,apollo,prisma,fastify" />
-<br><br>
+📚 **[Study Book](https://github.com/CarlosMagnani/obsidian-study-book)**  
+Plugin para Obsidian que transforma vídeos em notas de estudo no próprio vault. Usa TypeScript e permite escolher o provedor de IA e utilizar sua própria chave de API.
 
-### *Want to know more*
+✂️ **[Beauty AI](https://github.com/CarlosMagnani/Beauty-AI)**  
+Projeto em Python de um agente de IA voltado à reativação de clientes de salões de beleza.
 
-<img src="https://skillicons.dev/icons?i=mongodb,aws,python" />
-<br><br>
+### Tecnologias
 
- </div> <hr/>
- 
- ### Contatos
-  <div> 
-  <a href="https://www.linkedin.com/in/carlos-magnani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:carlosdsmagnani@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+`TypeScript` · `Python` · `Go` · `JavaScript` · `Node.js` · `PostgreSQL` · `Git`
+
+---
+
+<p align="center">Vamos conversar? <a href="https://www.linkedin.com/in/carlos-magnani/">Conecte-se comigo no LinkedIn</a>.</p>
